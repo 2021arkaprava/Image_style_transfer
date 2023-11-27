@@ -69,7 +69,7 @@ LPIPS Score :
 
 Evaluate the distance between image patches. Lower means more similar.(https://pypi.org/project/lpips/)
 
-# Conclusion :
+# Results and Conclusion :
 
 FID score A = 1.2771543822509557e-08
 
@@ -94,6 +94,6 @@ Notes and Further Work :
 
 -> Think of better way to do this!
 
-# Pretrainedd models : 
+# Pre-trained models : 
 
 https://drive.google.com/drive/folders/1Wycl-TSGLCMspTfRiOePAnR7Ree6SB8I?usp=sharing
