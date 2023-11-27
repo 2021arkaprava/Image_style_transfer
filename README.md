@@ -94,4 +94,6 @@ Notes and Further Work :
 
 -> Think of better way to do this!
 
-# Pretrainedd models : https://drive.google.com/drive/folders/1Wycl-TSGLCMspTfRiOePAnR7Ree6SB8I?usp=sharing
+# Pretrainedd models : 
+
+https://drive.google.com/drive/folders/1Wycl-TSGLCMspTfRiOePAnR7Ree6SB8I?usp=sharing
